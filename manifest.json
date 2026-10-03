@@ -1,0 +1,27 @@
+{
+  "name": "دفتر العداد",
+  "short_name": "دفتر العداد",
+  "description": "حساب يومي للعداد والتحصيل والمصاريف والصافي لسائق عربية الإيجار",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3EDE1",
+  "theme_color": "#B5651D",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
