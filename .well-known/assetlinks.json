@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mada10023_art.twa",
-        "sha256_cert_fingerprints": ["A6:2F:54:F3:D3:8E:37:95:A2:BF:B8:CD:0E:C3:EE:B1:36:13:18:5F:F8:0E:DE:A5:BB:DD:3D:80:F0:30:CC:DE"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mada10023_art.twa",
+    "sha256_cert_fingerprints": ["A6:2F:54:F3:D3:8E:37:95:A2:BF:B8:CD:0E:C3:EE:B1:36:13:18:5F:F8:0E:DE:A5:BB:DD:3D:80:F0:3..."]
+  }
+}]
