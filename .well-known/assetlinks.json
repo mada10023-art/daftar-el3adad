@@ -1,1 +1,1 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.mada10023_art.twa","sha256_cert_fingerprints":["A6:2F:54:F3:D3:8E:37:95:A2:BF:B8:CD:0E:C3:EE:B1:36:13:18:5F:F8:0E:DE:A5:BB:DD:3D:80:F0:30:CC:DE"]}}]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.mada10023_art.twa","sha256_cert_fingerprints":["6F:EE:C2:F1:C1:8D:7C:50:45:7A:AB:F7:CD:80:FB:AF:75:29:BF:DB:80:E0:D2:DD:E9:53:93:C8:26:F6:48:3A"]}}]
